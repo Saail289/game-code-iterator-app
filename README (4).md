@@ -46,7 +46,7 @@ An intelligent code iteration tool designed to help game developers enhance and 
 
 ## 🖼️ App Preview
 
-![App Screenshot](assets/screenshot.png)
+![App Screenshot](assets/Screenshot_1.png)
 
 
 ## Feedback
